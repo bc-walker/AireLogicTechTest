@@ -1,0 +1,16 @@
+C:\Users\bcwal\source\repos\AireLogicTechTest\bin\Debug\netcoreapp3.1\AireLogicTechTest.exe
+C:\Users\bcwal\source\repos\AireLogicTechTest\bin\Debug\netcoreapp3.1\AireLogicTechTest.deps.json
+C:\Users\bcwal\source\repos\AireLogicTechTest\bin\Debug\netcoreapp3.1\AireLogicTechTest.runtimeconfig.json
+C:\Users\bcwal\source\repos\AireLogicTechTest\bin\Debug\netcoreapp3.1\AireLogicTechTest.runtimeconfig.dev.json
+C:\Users\bcwal\source\repos\AireLogicTechTest\bin\Debug\netcoreapp3.1\AireLogicTechTest.dll
+C:\Users\bcwal\source\repos\AireLogicTechTest\bin\Debug\netcoreapp3.1\AireLogicTechTest.pdb
+C:\Users\bcwal\source\repos\AireLogicTechTest\obj\Debug\netcoreapp3.1\AireLogicTechTest.AssemblyInfoInputs.cache
+C:\Users\bcwal\source\repos\AireLogicTechTest\obj\Debug\netcoreapp3.1\AireLogicTechTest.AssemblyInfo.cs
+C:\Users\bcwal\source\repos\AireLogicTechTest\obj\Debug\netcoreapp3.1\AireLogicTechTest.csproj.CoreCompileInputs.cache
+C:\Users\bcwal\source\repos\AireLogicTechTest\obj\Debug\netcoreapp3.1\AireLogicTechTest.dll
+C:\Users\bcwal\source\repos\AireLogicTechTest\obj\Debug\netcoreapp3.1\AireLogicTechTest.pdb
+C:\Users\bcwal\source\repos\AireLogicTechTest\obj\Debug\netcoreapp3.1\AireLogicTechTest.genruntimeconfig.cache
+C:\Users\bcwal\source\repos\AireLogicTechTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bcwal\source\repos\AireLogicTechTest\obj\Debug\netcoreapp3.1\AireLogicTechTest.csproj.CopyComplete
+C:\Users\bcwal\source\repos\AireLogicTechTest\bin\Debug\netcoreapp3.1\Json.Net.dll
+C:\Users\bcwal\source\repos\AireLogicTechTest\obj\Debug\netcoreapp3.1\AireLogicTechTest.csprojAssemblyReference.cache

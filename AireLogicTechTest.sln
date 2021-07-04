@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AireLogicTechTest", "AireLogicTechTest.csproj", "{EF4AE4B7-B812-41F4-98BA-E4106496E70F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TechTestTests", "..\TechTestTests\TechTestTests.csproj", "{AF7AF263-7BBB-42B7-95BD-7B662DEED09D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF4AE4B7-B812-41F4-98BA-E4106496E70F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF4AE4B7-B812-41F4-98BA-E4106496E70F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF4AE4B7-B812-41F4-98BA-E4106496E70F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF4AE4B7-B812-41F4-98BA-E4106496E70F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF7AF263-7BBB-42B7-95BD-7B662DEED09D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF7AF263-7BBB-42B7-95BD-7B662DEED09D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF7AF263-7BBB-42B7-95BD-7B662DEED09D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF7AF263-7BBB-42B7-95BD-7B662DEED09D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ECEE189-ABD8-4AAB-8199-43ED9CE7E503}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "id9wW1LX4IR0XOwNHNYRfQELbO9PCb9T7N85BFhu39AVm1p4Z1pZgMp2WBHzETvWsehZYjcEhq/QWdDzxHxy/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bcwal\\source\\repos\\AireLogicTechTest\\AireLogicTechTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bcwal\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512",
+    "C:\\Users\\bcwal\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
